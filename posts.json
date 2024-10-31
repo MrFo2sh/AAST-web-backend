@@ -1,0 +1,34 @@
+[
+  {
+    "id": 123123,
+    "user": {
+      "avatar": "https://www.w3schools.com/howto/img_avatar.png",
+      "name": "Mohamed"
+    },
+    "text": "test post text"
+  },
+  {
+    "id": 1231232,
+    "user": {
+      "avatar": "https://www.w3schools.com/howto/img_avatar.png",
+      "name": "Ahmed"
+    },
+    "text": "test post text"
+  },
+  {
+    "id": 1231233,
+    "user": {
+      "avatar": "https://www.w3schools.com/howto/img_avatar.png",
+      "name": "Omar"
+    },
+    "text": "test post text"
+  },
+  {
+    "id": 123123,
+    "user": {
+      "avatar": "https://www.w3schools.com/howto/img_avatar.png",
+      "name": "Mohamed"
+    },
+    "text": "test post text"
+  }
+]
